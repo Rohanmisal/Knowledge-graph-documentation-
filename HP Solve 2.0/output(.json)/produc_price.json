@@ -1,0 +1,326 @@
+﻿[
+  {
+    "n": {
+      "identity": 1013,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "id": "product_price"
+      },
+      "elementId": "1013"
+    }
+  },
+  {
+    "n": {
+      "identity": 1014,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "3999"
+      },
+      "elementId": "1014"
+    }
+  },
+  {
+    "n": {
+      "identity": 1015,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "8999"
+      },
+      "elementId": "1015"
+    }
+  },
+  {
+    "n": {
+      "identity": 1016,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 4.0,
+        "id": "7999"
+      },
+      "elementId": "1016"
+    }
+  },
+  {
+    "n": {
+      "identity": 1043,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "9999"
+      },
+      "elementId": "1043"
+    }
+  },
+  {
+    "n": {
+      "identity": 1063,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 3.0,
+        "id": "1199"
+      },
+      "elementId": "1063"
+    }
+  },
+  {
+    "n": {
+      "identity": 1090,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 4.0,
+        "id": "499"
+      },
+      "elementId": "1090"
+    }
+  },
+  {
+    "n": {
+      "identity": 1092,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "1999"
+      },
+      "elementId": "1092"
+    }
+  },
+  {
+    "n": {
+      "identity": 1097,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "1099"
+      },
+      "elementId": "1097"
+    }
+  },
+  {
+    "n": {
+      "identity": 1099,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 1.0,
+        "id": "997"
+      },
+      "elementId": "1099"
+    }
+  },
+  {
+    "n": {
+      "identity": 1104,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 4.0,
+        "id": "1499"
+      },
+      "elementId": "1104"
+    }
+  },
+  {
+    "n": {
+      "identity": 1111,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "435"
+      },
+      "elementId": "1111"
+    }
+  },
+  {
+    "n": {
+      "identity": 1113,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "1349"
+      },
+      "elementId": "1113"
+    }
+  },
+  {
+    "n": {
+      "identity": 1116,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "30999"
+      },
+      "elementId": "1116"
+    }
+  },
+  {
+    "n": {
+      "identity": 1132,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "13999"
+      },
+      "elementId": "1132"
+    }
+  },
+  {
+    "n": {
+      "identity": 1136,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 1.0,
+        "id": "9990"
+      },
+      "elementId": "1136"
+    }
+  },
+  {
+    "n": {
+      "identity": 1137,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "14299"
+      },
+      "elementId": "1137"
+    }
+  },
+  {
+    "n": {
+      "identity": 1140,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "5298"
+      },
+      "elementId": "1140"
+    }
+  },
+  {
+    "n": {
+      "identity": 1145,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "7599"
+      },
+      "elementId": "1145"
+    }
+  },
+  {
+    "n": {
+      "identity": 1149,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "11999"
+      },
+      "elementId": "1149"
+    }
+  },
+  {
+    "n": {
+      "identity": 1152,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "329"
+      },
+      "elementId": "1152"
+    }
+  },
+  {
+    "n": {
+      "identity": 1154,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 4.0,
+        "id": "425"
+      },
+      "elementId": "1154"
+    }
+  },
+  {
+    "n": {
+      "identity": 1155,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 3.0,
+        "id": "249"
+      },
+      "elementId": "1155"
+    }
+  },
+  {
+    "n": {
+      "identity": 1158,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "302"
+      },
+      "elementId": "1158"
+    }
+  },
+  {
+    "n": {
+      "identity": 1159,
+      "labels": [
+        "product_price"
+      ],
+      "properties": {
+        "price": 5.0,
+        "id": "59"
+      },
+      "elementId": "1159"
+    }
+  }
+]

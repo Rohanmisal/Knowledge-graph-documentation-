@@ -1,0 +1,38 @@
+﻿[
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "Sentiment"
+      ],
+      "properties": {
+        "property": "positive"
+      },
+      "elementId": "43"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Sentiment"
+      ],
+      "properties": {
+        "property": "negative"
+      },
+      "elementId": "44"
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "Sentiment"
+      ],
+      "properties": {
+        "property": "neutral"
+      },
+      "elementId": "45"
+    }
+  }
+]

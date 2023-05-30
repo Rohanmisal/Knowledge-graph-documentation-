@@ -1,0 +1,110 @@
+﻿[
+  {
+    "n": {
+      "identity": 1007,
+      "labels": [
+        "Rate"
+      ],
+      "properties": {
+        "id": "Rate"
+      },
+      "elementId": "1007"
+    }
+  },
+  {
+    "n": {
+      "identity": 1008,
+      "labels": [
+        "Rate"
+      ],
+      "properties": {
+        "id": "5"
+      },
+      "elementId": "1008"
+    }
+  },
+  {
+    "n": {
+      "identity": 1009,
+      "labels": [
+        "Rate"
+      ],
+      "properties": {
+        "id": "3"
+      },
+      "elementId": "1009"
+    }
+  },
+  {
+    "n": {
+      "identity": 1010,
+      "labels": [
+        "Rate"
+      ],
+      "properties": {
+        "id": "1"
+      },
+      "elementId": "1010"
+    }
+  },
+  {
+    "n": {
+      "identity": 1011,
+      "labels": [
+        "Rate"
+      ],
+      "properties": {
+        "id": "4"
+      },
+      "elementId": "1011"
+    }
+  },
+  {
+    "n": {
+      "identity": 1012,
+      "labels": [
+        "Rate"
+      ],
+      "properties": {
+        "id": "2"
+      },
+      "elementId": "1012"
+    }
+  },
+  {
+    "n": {
+      "identity": 1331,
+      "labels": [
+        "Rate"
+      ],
+      "properties": {
+        "id": "Pigeon Favourite Electric Kettle??????(1.5 L, Silver, Black)"
+      },
+      "elementId": "1331"
+    }
+  },
+  {
+    "n": {
+      "identity": 3351,
+      "labels": [
+        "Rate"
+      ],
+      "properties": {
+        "id": "Bajaj DX 2 L/W Dry Iron"
+      },
+      "elementId": "3351"
+    }
+  },
+  {
+    "n": {
+      "identity": 3352,
+      "labels": [
+        "Rate"
+      ],
+      "properties": {
+        "id": "Nova Plus Amaze NI 10 1100 W Dry Iron?ÃÂ¿?ÃÂ¿(Grey & Turquoise)"
+      },
+      "elementId": "3352"
+    }
+  }
+]
